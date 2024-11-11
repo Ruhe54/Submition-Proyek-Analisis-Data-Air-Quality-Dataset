@@ -21,10 +21,10 @@ Pada Proyek ini dilakukan Proses Data Wragling, Cleaning Data ,Exploratory Data 
 - url.txt
   Informasi tambahan untuk mendukung proyek
 
-Instalasi requitment.txt
+## Instalasi requitment.txt
 <ins> </ins>
 pip install -r requirements.txt
 
-Menjalankan Streamlit
+## Menjalankan Streamlit
 <ins> </ins>
 streamlit run Dashboard/dashboard.py

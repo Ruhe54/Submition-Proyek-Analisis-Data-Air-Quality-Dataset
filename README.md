@@ -5,20 +5,20 @@ Pada Proyek ini dilakukan Proses Data Wragling, Cleaning Data ,Exploratory Data 
 ## Berkas-Berkas 
 <ins> </ins>
 - Dashboard
-  - dashboard.py
+  - dashboard.py:
     Berisikan main code pada Submition Proyek ini
-  - main_data.csv
+  - main_data.csv:
     Merupakan data yang akan diolah untuk dilakukan Analisis
 - Data
-  - PRSA_Data_Tiantan_20130301-20170228.csv
+  - PRSA_Data_Tiantan_20130301-20170228.csv:
     Merupakan data mentah yang belum di olah
-- Air_Quality_Dataset.ipynb
+- Air_Quality_Dataset.ipynb:
   Data googlecolab tempat dilakukan nya analisa awal
-- Readme.md
+- Readme.md:
   File yang wajib dibaca sebelum menjalankan file utama
-- requirements.txt
+- requirements.txt:
   Library yang digunakan untuk menjalankan proyek
-- url.txt
+- url.txt:
   Informasi tambahan untuk mendukung proyek
 
 ## Instalasi requitment.txt

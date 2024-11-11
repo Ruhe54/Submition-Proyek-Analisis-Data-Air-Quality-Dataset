@@ -20,3 +20,11 @@ Pada Proyek ini dilakukan Proses Data Wragling, Cleaning Data ,Exploratory Data 
   Library yang digunakan untuk menjalankan proyek
 - url.txt
   Informasi tambahan untuk mendukung proyek
+
+Instalasi requitment.txt
+<ins> </ins>
+pip install -r requirements.txt
+
+Menjalankan Streamlit
+<ins> </ins>
+streamlit run Dashboard/dashboard.py
